@@ -8,7 +8,7 @@
        <p>Párrafo principal de la página de inicio</p>
     </section>
     <footer>
-       <p>Derechos reservador @rctorr</p>
+       <p>Derechos reservados @rctorr</p>
     </footer>
 </body>
 </html>
