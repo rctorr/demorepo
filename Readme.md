@@ -13,3 +13,6 @@ El contenido está distribuido de la siguiente manera:
 Ya se puede usar llave SSH
 
 El remoto se llama: github
+
+El repo local está con seguimiento al repo remoto?
+
