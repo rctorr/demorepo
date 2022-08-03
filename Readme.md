@@ -10,4 +10,5 @@ El contenido está distribuido de la siguiente manera:
 ...
 
 ## Para hacer funcionar éste proyecto
+Ya se puede usar llave SSH
 
